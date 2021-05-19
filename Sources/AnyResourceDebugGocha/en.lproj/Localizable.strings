@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  AnyApp
+
+  Created by arayama-kyo on 2021/05/19.
+  
+*/
+
+"sayHello" = "Debug say Hello";
+"todayIsHappy" = "Debug Today is Happy";
